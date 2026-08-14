@@ -1,0 +1,79 @@
+PROJECT 3
+MINI SEARCH ENGINE
+Python + DSA
+
+==================================================
+OBJECTIVE
+==================================================
+
+Create a small search engine using Python and DSA.
+
+The system should search words, provide autocomplete,
+track search frequency, and display popular searches.
+
+==================================================
+MANDATORY FEATURES
+==================================================
+
+1. Add Word
+2. Exact Search
+3. Prefix Search
+4. Autocomplete Suggestions
+5. Keyword Search
+6. Search Frequency Counter
+7. Top Searched Words
+8. Display All Words
+9. Sort Results
+10. Statistics
+
+==================================================
+MANDATORY DSA CONCEPTS
+==================================================
+
+- Trie
+- Dictionary / Hashing
+- Heap / Priority Queue
+- Searching
+- Sorting
+
+==================================================
+STUDENT MUST EXPLAIN
+==================================================
+
+1. What is Trie?
+2. How autocomplete works
+3. Why Dictionary is used
+4. Why Heap is used
+5. Linear Search
+6. Time Complexity
+7. Space Complexity
+
+==================================================
+SUBMISSION
+==================================================
+
+1. Python Source Code
+2. README File
+3. Problem Statement
+4. Algorithm
+5. DSA Concepts Used
+6. Time & Space Complexity
+7. Sample Inputs / Outputs
+8. Screenshots
+9. PPT - 5 to 7 Slides
+10. Live Demo + Viva
+
+==================================================
+MARKING SCHEME
+==================================================
+
+Project Working             25
+DSA Implementation          25
+Logic / Algorithm           15
+Code Quality                10
+Time & Space Complexity     10
+Viva                        10
+Presentation                 5
+-------------------------------
+TOTAL                       100
+==================================================

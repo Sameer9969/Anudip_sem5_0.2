@@ -1,0 +1,45 @@
+PROJECT 2: PATHFINDER - CITY ROUTE NAVIGATOR
+
+OBJECTIVE:
+Create a Python application that represents cities as Graph nodes and roads as weighted edges.
+
+MINIMUM FEATURES:
+1. Add City
+2. Add Road
+3. Display Map
+4. BFS Traversal
+5. DFS Traversal
+6. Find Route using BFS
+7. Shortest Route using Dijkstra
+8. Display Connected Cities
+9. Statistics
+
+MANDATORY DSA:
+- Graph
+- Adjacency List
+- Queue
+- BFS
+- DFS
+- Priority Queue / Heap
+- Dijkstra
+
+SUBMISSION:
+- Source Code
+- README
+- Problem Statement
+- Algorithm Explanation
+- Time & Space Complexity
+- Screenshots
+- 5-7 Slide PPT
+- Live Demo
+- Viva
+
+MARKS:
+Working Project            25
+DSA Implementation        25
+Logic / Algorithm         15
+Code Quality              10
+Complexity Explanation    10
+Viva                      10
+Presentation               5
+TOTAL                    100

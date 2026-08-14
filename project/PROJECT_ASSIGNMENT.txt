@@ -1,0 +1,87 @@
+PROJECT 4
+HOSPITAL EMERGENCY MANAGEMENT SYSTEM
+Python + DSA
+
+============================================================
+OBJECTIVE
+============================================================
+
+Create a Python-based hospital system where patients are
+handled according to emergency priority.
+
+Priority Levels:
+
+1 = Critical
+2 = Serious
+3 = Normal
+
+============================================================
+MANDATORY FEATURES
+============================================================
+
+1. Add Patient
+2. Assign Priority
+3. Call Next Patient
+4. Search Patient by ID
+5. Search Patient by Name
+6. Display Waiting Patients
+7. Display Completed Patients
+8. Sort Patients by Name
+9. Sort Patients by Priority
+10. Remove Waiting Patient
+11. Show Statistics
+
+============================================================
+MANDATORY DSA CONCEPTS
+============================================================
+
+- Priority Queue
+- Heap
+- Queue
+- Dictionary / Hashing
+- Searching
+- Sorting
+
+============================================================
+STUDENT MUST EXPLAIN
+============================================================
+
+1. What is Priority Queue?
+2. What is Heap?
+3. Why Min Heap is used?
+4. What is FIFO?
+5. Why Queue is used?
+6. Why Dictionary is used?
+7. Linear Search
+8. Time Complexity
+9. Space Complexity
+
+============================================================
+SUBMISSION
+============================================================
+
+1. Python Source Code
+2. README
+3. Problem Statement
+4. Algorithm
+5. DSA Concepts Used
+6. Time & Space Complexity
+7. Sample Input / Output
+8. Screenshots
+9. PPT - 5 to 7 Slides
+10. Live Demo + Viva
+
+============================================================
+MARKING SCHEME
+============================================================
+
+Project Working             25
+DSA Implementation          25
+Logic / Algorithm           15
+Code Quality                10
+Time & Space Complexity     10
+Viva                        10
+Presentation                 5
+-------------------------------
+TOTAL                       100
+============================================================

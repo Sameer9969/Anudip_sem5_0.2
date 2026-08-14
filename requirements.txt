@@ -1,0 +1,4 @@
+# Add project dependencies here, for example:
+# flask==2.4.0
+
+# Current environment pip freeze (run `pip freeze > requirements.txt`) to populate.
